@@ -87,7 +87,7 @@ Acceso al hardware
 
 Arquitectura del celular
 
-# Quinto moudlo 5
+# Quinto modulo 5
 
 Que es Ionic
 

@@ -1,6 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/f235f0e1-1ab4-4b52-8b7b-777afb438da8)
-
+![image](https://github.com/user-attachments/assets/411afe87-98d5-48f0-80a0-c862e1c50846)
 
 # Curso-Desarrollo-movil-multiplataforma
 En este curso con johansitoweb aprenderas del desarrollo movil aprender a trabajar con diferentes techologias y crearas app.
